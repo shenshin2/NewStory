@@ -1,2 +1,1 @@
-It was the best of times, it was the worst of times.
-Hello world!
+Это было лучшее из времён, это было самое тяжёлое время.
